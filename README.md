@@ -17,6 +17,13 @@
 1. 室外场景  
 室外场景主要为探索地图中不同区域的街道，其中有可交互的房屋以及装饰的花园、车辆等。  
 以下为不同的小元素块以及拼接后的效果：
+
+![img](img/prework1.png){:width="50%"}
+![img](img/prework2.png)
+![img](img/prework3.png)
+![img](img/prework4.png)
+
+
 2. 室内场景  
 室内场景以房间、遇到的npc为主。  
 以下为不同的房间布局以及npc：
