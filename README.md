@@ -82,7 +82,12 @@
 </center>
 
 ## 项目内容展示  
-![img](img/introduction-page.gif){:width="50%"}
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:70%" 
+    src="img/introduction-page.gif">
+</center> 
+
 
 ## 游戏素材
 为了使游戏画面更加有吸引力，我手绘和PS了一些游戏内部的素材，主要分为：室内场景和室外场景两种。
