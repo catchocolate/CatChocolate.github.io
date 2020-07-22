@@ -12,7 +12,7 @@
 以下为此游戏网页中的一些截图:   
 <center>
     <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:60%" 
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:70%" 
     src="img/1.png">
     <br>
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -22,7 +22,7 @@
 </center>
 <center>
     <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:60%" 
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:70%" 
     src="img/2.png">
     <br>
     <div style="border-bottom: 1px solid #d9d9d9;
@@ -32,7 +32,7 @@
 </center>
 <center>
     <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:60%" 
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:70%" 
     src="img/3.png">
     <br>
     <div style="border-bottom: 1px solid #d9d9d9;
@@ -42,7 +42,7 @@
 </center>
 <center>
     <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:60%" 
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:70%" 
     src="img/4.png">
     <br>
     <div style=" border-bottom: 1px solid #d9d9d9;
@@ -52,7 +52,7 @@
 </center>
 <center>
     <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:60%" 
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:70%" 
     src="img/7.png">
     <br>
     <div style=" border-bottom: 1px solid #d9d9d9;
@@ -62,7 +62,7 @@
 </center>
 <center>
     <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:60%" 
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:70%" 
     src="img/6.png">
     <br>
     <div style=" border-bottom: 1px solid #d9d9d9;
@@ -72,7 +72,7 @@
 </center>
 <center>
     <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:60%" 
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:70%" 
     src="img/8.png">
     <br>
     <div style="border-bottom: 1px solid #d9d9d9;
@@ -90,18 +90,42 @@
 1. 室外场景  
 室外场景主要为探索地图中不同区域的街道，其中有可交互的房屋以及装饰的花园、车辆等。  
 以下为不同的小元素块以及拼接后的效果：
-
-![img](img/prework1.png){:width="50%"}
-![img](img/prework2.png){:width="50%"}
-![img](img/prework3.png){:width="50%"}
-![img](img/prework4.png){:width="50%"}
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:70%" 
+    src="img/prework1.png">
+</center>  
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:70%" 
+    src="img/prework2.png">
+</center>  
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:70%" 
+    src="img/prework3.png">
+</center>  
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:70%" 
+    src="img/prework4.png">
+</center>
 
 
 2. 室内场景  
 室内场景以房间、遇到的npc为主。  
 以下为不同的房间布局：  
-![img](img/indoor1.jpg){:width="50%"}
-![img](img/parta3.jpg){:width="50%"}
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:70%" 
+    src="img/indoor1.jpg">
+</center>  
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);width:70%" 
+    src="img/parta3.jpg">
+</center>  
+
 
 
 
