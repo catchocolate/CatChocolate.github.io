@@ -1,31 +1,48 @@
-## Welcome to GitHub Pages 1111111
+# 作品介绍
+本作品为昆士兰大学工程学院短期项目，主要内容为设计并制作交互性为主的网站。本人与其他三人构成小组，在小组中的主要职责为概念设计、UI、UX以及部分前端编程。以下为该作品的介绍。
 
----
+## 项目主题
+本网站交互主题为：探索地图、解谜的游戏网页。游戏流程为下：
 
-# 111111
-sadfasdf
+* 坐时光机穿越回战争年代试图找回图书馆丢失的二战士兵照片
+* 探索现有地图中的不同区域
+* 进入房间，发生对话/探索房间，寻找沙漏的线索
+* 利用沙漏来点亮士兵照片，查看士兵故事
 
-## 222222sadf
-### 333333
+以下为此游戏网页中的一些截图：
 
-> asdfasdfasdfas  
-dsafdsaf  
-asddfasfddas  
+## 游戏素材
+为了使游戏画面更加有吸引力，我手绘和PS了一些游戏内部的素材，主要分为：室内场景和室外场景两种。
 
-ddsdfs
-
-* sds
-* dfsfd
-* 
-
-1. dsafsd
-2. dffsdf
-3. fdsfdsafsd
-
-
-![toule](https://cdn.ancii.com/article/image/v1/sw/wV/kP/PkwwVsGDmjDG9swnOi7SkjVAsMQAarn73E9S3mmSmcB4y9dUMElbuQ4DBAkfo2EQv_eF7TvbtWT5qXPNH-uNWg.png)
+1. 室外场景  
+室外场景主要为探索地图中不同区域的街道，其中有可交互的房屋以及装饰的花园、车辆等。  
+以下为不同的小元素块以及拼接后的效果：
+2. 室内场景  
+室内场景以房间、遇到的npc为主。  
+以下为不同的房间布局以及npc：
 
 
-[链接1](baidu.com)
+## 用户画像、使用场景
 
-[toule](test1/toule.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
