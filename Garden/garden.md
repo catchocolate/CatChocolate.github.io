@@ -4,8 +4,6 @@
 
 项目地址: [https://smart-transport.australiaeast.cloudapp.azure.com/ ](https://smart-transport.australiaeast.cloudapp.azure.com/ )   
 
-
-
 以下为本项目的视频介绍 
 
 <iframe src="//player.bilibili.com/player.html?aid=203289530&bvid=BV1Vh411f7AW&cid=272820992&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
@@ -34,7 +32,7 @@
 ## 绘制原型  
 
 产品原型主要围绕着定位、花园以及个人进度三个功能进行具体展开。
-原型具体细节请前往：https://www.wulihub.com.cn/go/QAk95b/start.html  
+原型具体细节请前往：[https://www.wulihub.com.cn/go/QAk95b/start.html](https://www.wulihub.com.cn/go/QAk95b/start.html)  
 
 ## UI及美工  
 
@@ -105,7 +103,7 @@
 ![迭代7](img/迭代7.jpg "迭代7") 
 
 
-迭代更多细节请前往：https://www.wulihub.com.cn/go/QAk95b/start.html
+迭代更多细节请前往：[https://www.wulihub.com.cn/go/QAk95b/start.html](https://www.wulihub.com.cn/go/QAk95b/start.html)
 
 ## 反思  
 
