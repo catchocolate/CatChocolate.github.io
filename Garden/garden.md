@@ -2,11 +2,13 @@
 本项目为一款web app,主要内容为通过绿色出行的方式来管理自己的花园。此应用是基于现有的产品草案和概念上开发出的最终成品。  
 此文档主要介绍了此项目产出的过程以及本人参与了哪些工作。  
 
-项目地址: https://smart-transport.australiaeast.cloudapp.azure.com/    
+项目地址: [https://smart-transport.australiaeast.cloudapp.azure.com/ ](https://smart-transport.australiaeast.cloudapp.azure.com/ )   
+
+
 
 以下为本项目的视频介绍 
 
-<iframe src="//player.bilibili.com/player.html?aid=203289530&bvid=BV1Vh411f7AW&cid=272820992&page=1" scrolling="no" s_wide=1"border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=203289530&bvid=BV1Vh411f7AW&cid=272820992&page=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 ## 优化结构
 在现有产品草案的基础上，我优化了产品的结构。 
