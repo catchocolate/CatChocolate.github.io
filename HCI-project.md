@@ -10,17 +10,20 @@
 
 
 # 中保真原型  
-![这是图片](/Garden/img/main.png)
-![这是图片](/Garden/img/diet_recording1.png)
-![这是图片](/Garden/img/diet_recording.png)
-![这是图片](/Garden/img/diet_2.png)
-![这是图片](/Garden/img/diet3.png)
-![这是图片](/Garden/img/recommend1.png)
-![这是图片](/Garden/img/recommend2.png)
-![这是图片](/Garden/img/record1.png)
-![这是图片](/Garden/img/record2.png)
-![这是图片](/Garden/img/reward1.png)
-![这是图片](/Garden/img/reward2.png)
+
+![main.png](https://www.picbed.cn/images/2021/07/15/main.png)
+![diet_recording1.png](https://www.picbed.cn/images/2021/07/15/diet_recording1.png)
+![diet_recording.png](https://www.picbed.cn/images/2021/07/15/diet_recording.png)
+![diet_2.png](https://www.picbed.cn/images/2021/07/15/diet_2.png)
+![diet3.png](https://www.picbed.cn/images/2021/07/15/diet3.png)
+![recommend1.png](https://www.picbed.cn/images/2021/07/15/recommend1.png)
+![recommend2.png](https://www.picbed.cn/images/2021/07/15/recommend2.png)
+![records1.png](https://www.picbed.cn/images/2021/07/15/records1.png)
+![records2.png](https://www.picbed.cn/images/2021/07/15/records2.png)
+![reward1.png](https://www.picbed.cn/images/2021/07/15/reward1.png)
+![reward2.png](https://www.picbed.cn/images/2021/07/15/reward2.png)
+
+
 
 ## 需求整理
 ### 系统目标及功能
@@ -56,6 +59,20 @@
 标题：全部使用大写
 按键：紫色表示可点击，灰色表示不可点击
 ### UX迭代方向
+- “添加记录”页面
+1. 使用嵌入在应用栏中的标签作为膳食类型的选择。
+2. 相机页面——黑色作为取景器遮罩，红色轮廓和文字作为操作错误提醒，绿色轮廓和文字作为正确操作提醒。
+3.识别结果页面——使用带有铅笔图标的标签来标记识别的项目，并使用对话框提示用户进行下一步操作。
+4. 添加项目列表 - 使用按钮和下拉菜单作为列表项目的“选项”（编辑和删除）。
+- “记录详情”页面
+1. 使用彩色饼图和直方图显示营养分析。
+2. 使用左右滑动或点击标题在日视图和周视图之间切换。
+- “推荐食谱”页面
+1.列表项需要包含菜谱内容、餐厅名称、距离、用餐方式等基本信息。此外，它还应包括营养信息和进度条，以指示用户的适用性。
+2、使用可左右滑动的下拉菜单作为过滤器，应用栏下方应显示当前过滤因子。
+- “食谱详情”页面
+1. 使用展开的应用栏显示菜谱的标题、营养等基本信息，并使用容器卡片显示其中包含的物品。
+2.页面底部有一个浮动表单，显示店铺基本信息。向上拖动此表，将显示位置信息和交付选项。
 
 ## 高保真原型页面流程图
 ![这是图片](/Garden/img/hfpmain.png)
