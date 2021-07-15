@@ -75,16 +75,17 @@
 2.页面底部有一个浮动表单，显示店铺基本信息。向上拖动此表，将显示位置信息和交付选项。
 
 ## 高保真原型页面流程图
-![这是图片](/Garden/img/hfpmain.png)
-![这是图片](/Garden/img/hfpsearching1.png)
-![这是图片](/Garden/img/hfpsearching2.png)
-![这是图片](/Garden/img/hfpsearching3.png)
-![这是图片](/Garden/img/hfpsearching4.png)
-![这是图片](/Garden/img/hfpnutri1.png)
-![这是图片](/Garden/img/hfprecom1.png)
-![这是图片](/Garden/img/hfprecom2.png)
-![这是图片](/Garden/img/hfpreward1.png)
-![这是图片](/Garden/img/hfpreward2.png)
+
+![hfpmain.png](https://www.picbed.cn/images/2021/07/15/hfpmain.png)
+![hfpsearching1.png](https://www.picbed.cn/images/2021/07/15/hfpsearching1.png)
+![hfpsearching2.png](https://www.picbed.cn/images/2021/07/15/hfpsearching2.png)
+![hfpsearching3.png](https://www.picbed.cn/images/2021/07/15/hfpsearching3.png)
+![hfpsearching47386e7e5c243348f.png](https://www.picbed.cn/images/2021/07/15/hfpsearching47386e7e5c243348f.png)
+![hfpnutri1d1baa2bc53065ed6.png](https://www.picbed.cn/images/2021/07/15/hfpnutri1d1baa2bc53065ed6.png)
+![hfprecom1.png](https://www.picbed.cn/images/2021/07/15/hfprecom1.png)
+![hfprecom2.png](https://www.picbed.cn/images/2021/07/15/hfprecom2.png)
+![hfpreward1.png](https://www.picbed.cn/images/2021/07/15/hfpreward1.png)
+![hfpreward2.png](https://www.picbed.cn/images/2021/07/15/hfpreward2.png)
 
 
 # 高保真原型测试评估
