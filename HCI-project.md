@@ -11,18 +11,6 @@
 
 # 中保真原型  
 
-![main.png](https://www.picbed.cn/images/2021/07/15/main.png)
-![diet_recording1.png](https://www.picbed.cn/images/2021/07/15/diet_recording1.png)
-![diet_recording.png](https://www.picbed.cn/images/2021/07/15/diet_recording.png)
-![diet_2.png](https://www.picbed.cn/images/2021/07/15/diet_2.png)
-![diet3.png](https://www.picbed.cn/images/2021/07/15/diet3.png)
-![recommend1.png](https://www.picbed.cn/images/2021/07/15/recommend1.png)
-![recommend2.png](https://www.picbed.cn/images/2021/07/15/recommend2.png)
-![records1.png](https://www.picbed.cn/images/2021/07/15/records1.png)
-![records2.png](https://www.picbed.cn/images/2021/07/15/records2.png)
-![reward1.png](https://www.picbed.cn/images/2021/07/15/reward1.png)
-![reward2.png](https://www.picbed.cn/images/2021/07/15/reward2.png)
-
 
 
 ## 需求整理
@@ -46,6 +34,17 @@
 他们会在日常中记录每一餐的饮食摄入。当他们工作或学习繁忙时，他们会通过这个APP了解目前缺乏的营养摄入，并根据推荐去购买附近适合他们吃的饭菜。
 
 ## 中保真原型页面流程
+![main.png](https://www.picbed.cn/images/2021/07/15/main.png)
+![diet_recording1.png](https://www.picbed.cn/images/2021/07/15/diet_recording1.png)
+![diet_recording.png](https://www.picbed.cn/images/2021/07/15/diet_recording.png)
+![diet_2.png](https://www.picbed.cn/images/2021/07/15/diet_2.png)
+![diet3.png](https://www.picbed.cn/images/2021/07/15/diet3.png)
+![recommend1.png](https://www.picbed.cn/images/2021/07/15/recommend1.png)
+![recommend2.png](https://www.picbed.cn/images/2021/07/15/recommend2.png)
+![records1.png](https://www.picbed.cn/images/2021/07/15/records1.png)
+![records2.png](https://www.picbed.cn/images/2021/07/15/records2.png)
+![reward1.png](https://www.picbed.cn/images/2021/07/15/reward1.png)
+![reward2.png](https://www.picbed.cn/images/2021/07/15/reward2.png)
 
 ## 中保真原型测试评估
 我们运用了两种人机交互（HCI）方法对于中保真原型进行评估，分别问认知演练（CW）及SUS量表进行评估，在此并不多做赘述。
