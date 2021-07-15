@@ -6,9 +6,21 @@
 此项目为一款饮食管理APP，主要作用为通过推荐适合用户的餐厅食品或外卖，来帮助用户管理饮食。同时，这款APP能够通过图像识别更智能更简单的输入每一顿饭的菜品，并且能够允许用户定期吃“欺骗餐”。 
 
 ## 项目最终高保真原型展示  
-![这是图片](/Garden/img/main.png)
+原型地址：[hci-project](https://www.wulihub.com.cn/go/WX0rGV/index.html)。
+
 
 # 中保真原型  
+![这是图片](/Garden/img/main.png)
+![这是图片](/Garden/img/diet_recording1.png)
+![这是图片](/Garden/img/diet_recording.png)
+![这是图片](/Garden/img/diet_2.png)
+![这是图片](/Garden/img/diet3.png)
+![这是图片](/Garden/img/recommend1.png)
+![这是图片](/Garden/img/recommend2.png)
+![这是图片](/Garden/img/record1.png)
+![这是图片](/Garden/img/record2.png)
+![这是图片](/Garden/img/reward1.png)
+![这是图片](/Garden/img/reward2.png)
 
 ## 需求整理
 ### 系统目标及功能
@@ -46,6 +58,17 @@
 ### UX迭代方向
 
 ## 高保真原型页面流程图
+![这是图片](/Garden/img/hfpmain.png)
+![这是图片](/Garden/img/hfpsearching1.png)
+![这是图片](/Garden/img/hfpsearching2.png)
+![这是图片](/Garden/img/hfpsearching3.png)
+![这是图片](/Garden/img/hfpsearching4.png)
+![这是图片](/Garden/img/hfpnutri1.png)
+![这是图片](/Garden/img/hfprecom1.png)
+![这是图片](/Garden/img/hfprecom2.png)
+![这是图片](/Garden/img/hfpreward1.png)
+![这是图片](/Garden/img/hfpreward2.png)
+
 
 # 高保真原型测试评估
 我们运用了两种人机交互（HCI）方法对于中保真原型进行评估，分别问共同设计（co-design）及SUS量表进行评估，在此并不多做赘述。
