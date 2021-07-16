@@ -1,12 +1,11 @@
 # 项目概览
 本项目为一个以人机交互为主的原型设计以及迭代过程。该项目主要运用了一些人机交互的理论以及评估方法来设计及评估原型，并以此基础上进行迭代。 
-原型地址：[hci-project](https://www.wulihub.com.cn/go/WX0rGV/index.html)。
 
 ## 项目介绍
 此项目为一款饮食管理APP，主要作用为通过推荐适合用户的餐厅食品或外卖，来帮助用户管理饮食。同时，这款APP能够通过图像识别更智能更简单的输入每一顿饭的菜品，并且能够允许用户定期吃“欺骗餐”。 
 
 ## 项目最终高保真原型展示  
-原型地址：[hci-project](https://www.wulihub.com.cn/go/WX0rGV/index.html)。
+*原型地址*：[https://www.wulihub.com.cn/go/WX0rGV/index.html](https://www.wulihub.com.cn/go/WX0rGV/index.html)。
 
 
 # 中保真原型  
