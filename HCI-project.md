@@ -15,35 +15,78 @@
 
 ## 需求整理
 ### 系统目标及功能
-系统目标：能够帮助一些没时间做饭的人合理的饮食
-功能：记录每日摄入、平衡饮食、拥有吃欺骗餐的机会、点餐推荐（合适的餐厅或外卖）、奖励系统
+系统目标：能够帮助一些没时间做饭的人合理的饮食 
+
+功能：记录每日摄入、平衡饮食、拥有吃欺骗餐的机会、点餐推荐（合适的餐厅或外卖）、奖励系统 
+
 ### 设计准则
-中保真原型保持统一的配色
-文字全部使用大写（Uppercase letters）
-运用图表及进程图来表示数据
-导航层次不得超过三层，不会使用底部导航
-使用不同的长方形底色作为内容的容器 
+中保真原型保持统一的配色 
+
+文字全部使用大写（Uppercase letters） 
+
+运用图表及进程图来表示数据 
+
+导航层次不得超过三层，不会使用底部导航 
+
+使用不同的长方形底色作为内容的容器  
+
 
 ### 用户特点及需求
-用户特点：使用此APP的用户往往工作或学习繁忙，没有时间做饭或不会做饭并且担心自己的饮食状况
-用户需求
+**用户特点**  
+
+使用此APP的用户往往工作或学习繁忙，没有时间做饭或不会做饭并且担心自己的饮食状况 
+
+**用户需求** 
+
 记录每一餐的饮食内容，并尽量简易记录过程
 推荐适合自己吃的附近的餐厅或是外卖，尽量满足自己的当前需要的营养
 可以允许他们偶尔吃欺骗餐而不被系统惩罚
 ### 使用场景
 他们会在日常中记录每一餐的饮食摄入。当他们工作或学习繁忙时，他们会通过这个APP了解目前缺乏的营养摄入，并根据推荐去购买附近适合他们吃的饭菜。
 
-## 中保真原型页面流程
-![main.png](https://www.picbed.cn/images/2021/07/15/main.png)
-![diet_recording1.png](https://www.picbed.cn/images/2021/07/15/diet_recording1.png)
-![diet_recording.png](https://www.picbed.cn/images/2021/07/15/diet_recording.png)
-![diet_2.png](https://www.picbed.cn/images/2021/07/15/diet_2.png)
-![diet3.png](https://www.picbed.cn/images/2021/07/15/diet3.png)
-![recommend1.png](https://www.picbed.cn/images/2021/07/15/recommend1.png)
-![recommend2.png](https://www.picbed.cn/images/2021/07/15/recommend2.png)
-![records1.png](https://www.picbed.cn/images/2021/07/15/records1.png)
-![records2.png](https://www.picbed.cn/images/2021/07/15/records2.png)
-![reward1.png](https://www.picbed.cn/images/2021/07/15/reward1.png)
+## 中保真原型页面流程 
+主页面及一级页面的页面流程图 
+
+![main.png](https://www.picbed.cn/images/2021/07/15/main.png) 
+
+**记录饮食** 移动相机拍照  
+
+![diet_recording1.png](https://www.picbed.cn/images/2021/07/15/diet_recording1.png) 
+
+**记录饮食** 处理识别出的食物，并做修改 
+
+![diet_recording.png](https://www.picbed.cn/images/2021/07/15/diet_recording.png) 
+
+**记录饮食** 食物质量或删除食物 
+
+![diet_2.png](https://www.picbed.cn/images/2021/07/15/diet_2.png) 
+
+**记录饮食** 普通搜索添加食物（辅助添加菜品），并选择是否为“欺骗餐”，并完成添加过程，查看本餐评估。 
+
+![diet3.png](https://www.picbed.cn/images/2021/07/15/diet3.png) 
+
+**寻找推荐餐厅** 利用筛选项筛选适合的组合餐 
+
+![recommend1.png](https://www.picbed.cn/images/2021/07/15/recommend1.png) 
+
+**寻找推荐餐厅** 点击感兴趣的组合餐，查看详情：包含什么食品、补充了缺乏的哪些营养、餐厅地址 
+
+![recommend2.png](https://www.picbed.cn/images/2021/07/15/recommend2.png) 
+
+**每日记录** 查看历史记录，每一天或每周的健康评估 
+
+![records1.png](https://www.picbed.cn/images/2021/07/15/records1.png) 
+
+**每日记录** 查看具体每顿饭的内容及评估
+
+![records2.png](https://www.picbed.cn/images/2021/07/15/records2.png) 
+
+**成就系统** 查看并点击已完成的成就 
+
+![reward1.png](https://www.picbed.cn/images/2021/07/15/reward1.png) 
+
+**成就系统** 兑换优惠券，包含合作商家的优惠券以及吃欺骗餐的机会券  
+
 ![reward2.png](https://www.picbed.cn/images/2021/07/15/reward2.png)
 
 ## 中保真原型测试评估
@@ -75,15 +118,40 @@
 
 ## 高保真原型页面流程图
 
-![hfpmain.png](https://www.picbed.cn/images/2021/07/15/hfpmain.png)
-![hfpsearching1.png](https://www.picbed.cn/images/2021/07/15/hfpsearching1.png)
-![hfpsearching2.png](https://www.picbed.cn/images/2021/07/15/hfpsearching2.png)
-![hfpsearching3.png](https://www.picbed.cn/images/2021/07/15/hfpsearching3.png)
-![hfpsearching47386e7e5c243348f.png](https://www.picbed.cn/images/2021/07/15/hfpsearching47386e7e5c243348f.png)
-![hfpnutri1d1baa2bc53065ed6.png](https://www.picbed.cn/images/2021/07/15/hfpnutri1d1baa2bc53065ed6.png)
-![hfprecom1.png](https://www.picbed.cn/images/2021/07/15/hfprecom1.png)
-![hfprecom2.png](https://www.picbed.cn/images/2021/07/15/hfprecom2.png)
-![hfpreward1.png](https://www.picbed.cn/images/2021/07/15/hfpreward1.png)
+主页面及一级页面的页面流程图 
+
+![hfpmain.png](https://www.picbed.cn/images/2021/07/15/hfpmain.png) 
+
+**记录饮食** 移动相机拍照  
+
+![hfpsearching1.png](https://www.picbed.cn/images/2021/07/15/hfpsearching1.png) 
+
+**记录饮食** 处理识别出的食物，并做修改 
+
+![hfpsearching2.png](https://www.picbed.cn/images/2021/07/15/hfpsearching2.png) 
+
+**记录饮食** 普通搜索添加食物（辅助添加菜品），并选择是否为“欺骗餐”，并完成添加过程，查看本餐评估  
+
+![hfpsearching3.png](https://www.picbed.cn/images/2021/07/15/hfpsearching3.png) 
+
+**每日记录** 查看历史记录，每一天或每周的健康评估，以及每餐的具体评估 
+
+![hfpnutri1d1baa2bc53065ed6.png](https://www.picbed.cn/images/2021/07/15/hfpnutri1d1baa2bc53065ed6.png) 
+
+**寻找推荐餐厅** 筛选出合适的餐厅或外卖，食物组合预览界面会显示餐品与个人的匹配度，以及有哪些食物。 
+
+![hfprecom1.png](https://www.picbed.cn/images/2021/07/15/hfprecom1.png) 
+
+**寻找推荐餐厅** 查看页面详情，上拉或下拉查看外卖或餐厅的位置，可跳转至外卖平台购买。  
+
+![hfprecom2.png](https://www.picbed.cn/images/2021/07/15/hfprecom2.png) 
+
+**成就系统** 查看已完成的成就，并查看已兑换的优惠券或机会券。
+
+![hfpreward1.png](https://www.picbed.cn/images/2021/07/15/hfpreward1.png) 
+
+**成就系统** 兑换优惠券，包含合作商家的优惠券以及吃欺骗餐的机会券 
+
 ![hfpreward2.png](https://www.picbed.cn/images/2021/07/15/hfpreward2.png)
 
 
@@ -91,5 +159,6 @@
 我们运用了两种人机交互（HCI）方法对于中保真原型进行评估，分别问共同设计（co-design）及SUS量表进行评估，在此并不多做赘述。
 
 # 迭代方向
-增加菜品食物质量的引导。这是由于我们发现很多人对于食物质量并没有概念，在记录饮食质量时不懂得该如何做
+增加菜品食物质量的引导。这是由于我们发现很多人对于食物质量并没有概念，在记录饮食质量时不懂得该如何做。 
+
 改善成就系统，使其更容易理解。与此同时，可以增加虚拟奖励等鼓励其持续打卡。
